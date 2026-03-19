@@ -58,7 +58,7 @@
 - Arch Linux (Primary OS)  
 - Kali Linux (Pentesting)  
 - Vuln Ubuntu Server (Testing)  
-- Windows (VM Environment)  
+- Windows 11 (Testing)  
 
 
 ## Programming & Scripting
