@@ -4,7 +4,7 @@
 <h3 align="center">Offensive Security Researcher | Penetration Tester</h3>
 
 <p align="center">
-  <strong><em>Web • API • Network • Cloud Security • AI</em></strong>
+  <strong><em>Web • Network • Cloud Security • Wifi • AI</em></strong>
 </p>
 
 ## Profile
@@ -36,7 +36,7 @@
 
 - Arch Linux (Primary OS)  
 - Kali Linux (Pentesting)  
-- Ubuntu (Testing)  
+- Vuln Ubuntu Server (Testing)  
 - Windows (VM Environment)  
 
 
