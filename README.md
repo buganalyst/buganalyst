@@ -25,24 +25,24 @@
 ![AI](https://img.shields.io/badge/AI%20Security-Beginner-111111?style=for-the-badge)
 
 
-## ertifications & Learning
+## Certifications & Learning
 
 ### Certifications
 
-![CEH](https://img.shields.io/badge/CEH%20v13-Ongoing-111111?style=for-the-badge)
-![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-Ongoing-111111?style=for-the-badge)
-![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco%20Ethical%20Hacker-Completed-111111?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe%20Jr%20Pentester-Completed-111111?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-Completed-111111?style=for-the-badge)
-![Cisco Networking](https://img.shields.io/badge/Cisco%20Network%20Fundamentals-Completed-111111?style=for-the-badge)
+- CEH V13 (Ongoing)
+- ISC2 in CC (Ongoing)
+- Cisco Ethical Hacker
+- TryHackMe Jr. Penetration Tester
+- AWS Cloud Practitioner Essentials
+- Cisco Networking Basics
 
 ### Course Badges
 
 <p align="left">
-  <img src="YOUR_BADGE_LINK_1" width="80"/>
-  <img src="YOUR_BADGE_LINK_2" width="80"/>
-  <img src="YOUR_BADGE_LINK_3" width="80"/>
-  <img src="YOUR_BADGE_LINK_4" width="80"/>
+  <img src="Images/ethical-hacker.png" width="80"/>
+  <img src="Images/networking-basics.png" width="80"/>
+  <img src="Images/aws-cloud-quest-cloud-practitioner-training-badge.png" width="80"/>
+  <img src="Images/isc2-candidate.png" width="80"/>
 </p>
 
 
