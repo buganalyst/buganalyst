@@ -7,6 +7,10 @@
   <strong><em>Web • Network • Cloud Security • Wifi • AI</em></strong>
 </p>
 
+<p align="center">
+  <img src="Images/profile.png" />
+</p>
+
 ## Profile
 
 - Offensive Security Researcher & Penetration Tester  
